@@ -1,3 +1,3 @@
 ### My Goals:
-* [] Learn HTML
-* [] Learn CSS
+* [ ] Learn HTML
+* [ ] Learn CSS
